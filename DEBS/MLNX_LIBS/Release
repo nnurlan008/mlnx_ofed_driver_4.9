@@ -1,0 +1,22 @@
+Origin: MLNX_OFED
+Label: MLNX_OFED_LINUX
+Suite: 4.9-6.0.6.0
+Codename: 4.9
+Description: MLNX_OFED_LINUX 4.9-6.0.6.0
+Date: Tue, 13 Dec 2022 20:56:57 +0000
+MD5Sum:
+ ee81d1c743fdf2474a6a91b4a3cbd0ee           114764 Packages
+ 6267839306c2e9b7accf7090617c4122            24439 Packages.bz2
+ eeb98da2e5f9b0f0ab597b7f4597e1e6              153 Release
+SHA1:
+ fa0788d03c6406a9bbeb24e2c771e4f05d87c6fe           114764 Packages
+ 236032a4534f347b24dcf1e426b8485b365113f0            24439 Packages.bz2
+ d6216ea20d351158cf24c1728dd0055b3ef067b0              153 Release
+SHA256:
+ 6dc5ae79bbab497a0a136cc9777005bd320229650a1ba13ce045882d7526d579           114764 Packages
+ 5aa728d5606c75c331321426fce1989ad566834cd46a6e484bd4700cb5114bf1            24439 Packages.bz2
+ 020c246946c2246d5ca0650507b18cd891ff8a49d85ddd4c71acfe872546191b              153 Release
+SHA512:
+ f94b55819a39133f4d9ef6356209c5c855f115130ce17dcf4a07c8b29f9ff8b957c8b2b670d74536575d1e93a8806b6a8f09290bede72952f6d5716cd8a039c1           114764 Packages
+ 8720a8dcb88175b925df3286ed05027ad2db03d694785bab60688fe70eeddac222e45ba2cfb5aa5ef8aa5fca865b50fd7bb4e1c821332f6e72562a53fae4ecc6            24439 Packages.bz2
+ 323c172a03ae668a14c0fcbfb6c52258ac4674c787ce1b58a6d3239894ddda56e990204fa64b33ad2a89bad3b1dc8938c3bd777d34596599a084b8b9a824eda6              153 Release
